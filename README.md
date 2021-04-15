@@ -4,7 +4,7 @@
   <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni" />
 </a>
 <a href=https://github.com/anuraghazra/github-readme-stats>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni" />
+ <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni" />
 </a>
 
 ### More about me:
