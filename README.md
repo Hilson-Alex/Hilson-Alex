@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Hilson, a brazilian programmer and researcher.
 
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni" />
+</a>
+<a href=https://github.com/anuraghazra/github-readme-stats>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni" />
+</a>
+
+### More about me:
+
+- 🔭 I'm a Researcher at Univali, and researching the use of Intelligent agents to simulate an epidemy propagation (this repository will be public someday soon, I hope...)
+- 🌱 Currently I'm learning how to use JavaCC to create a compiler
+- 😄 My Pronouns are he/him
+- 📫 You can talk to me on any of my e-mails:
+  -  hilson.alex234@gmail.com
+  -  hilson.junior@edu.univali.br
 <!--
 **Hilson-Alex/Hilson-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
