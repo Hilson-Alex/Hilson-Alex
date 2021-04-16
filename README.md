@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hilson, a brazilian programmer and researcher.
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni" />
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni&card_width=5&custom_title=Hilson's Github Stats"/>
 </a>
 <a href=https://github.com/anuraghazra/github-readme-stats>
  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni" />
