@@ -12,9 +12,10 @@
 - 🔭 I'm a Researcher at Univali, and researching the use of Intelligent agents to simulate an epidemy propagation (this repository will be public someday soon, I hope...)
 - 🌱 Currently I'm learning how to use JavaCC to create a compiler
 - 😄 My Pronouns are he/him
-- 📫 You can talk to me on any of my e-mails:
-  -  hilson.alex234@gmail.com
-  -  hilson.junior@edu.univali.br
+- 📫 You can talk to me on any of my e-mails or on my Instagram:
+  -  [hilson.alex234@gmail.com](mailto:hilson.alex234@gmail.com)
+  -  [hilson.junior@edu.univali.br](mailto:hilson.alex234@gmail.com)
+  -  [h.wojack (Instagram)](https://www.instagram.com/h.wojack/)
 <!--
 **Hilson-Alex/Hilson-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
