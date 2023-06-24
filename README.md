@@ -3,9 +3,9 @@
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni&card_width=500&custom_title=Hilson's+Github+Stats"/>
 </a></br>
-<a href=https://github.com/anuraghazra/github-readme-stats>
+<!-- <a href=https://github.com/anuraghazra/github-readme-stats>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni&card_width=450" />
-</a>
+</a> -->
 
 ### More about me:
 
