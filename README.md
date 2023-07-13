@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Hilson, a brazilian programmer and researcher.
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&hide=contribs&show_icons=true&theme=omni&card_width=500&custom_title=Hilson's+Github+Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&rank_icon=github&hide=contribs&show_icons=true&theme=omni&card_width=500&custom_title=Hilson's+Github+Stats"/>
 </a></br>
-<!-- <a href=https://github.com/anuraghazra/github-readme-stats>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni&card_width=450" />
-</a> -->
+<a href=https://github.com/anuraghazra/github-readme-stats>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilson-Alex&layout=compact&theme=omni&card_width=500&exclude_repo=go_compiler" />
+</a>
 
 ### More about me:
 
@@ -15,7 +15,6 @@
 - 😄 My Pronouns are he/him
 - 📫 You can talk to me on any of my e-mails or on my Instagram:
   -  [hilson.alex234@gmail.com](mailto:hilson.alex234@gmail.com)
-  -  [hilson.junior@edu.univali.br](mailto:hilson.alex234@gmail.com)
   -  [h.wojack (Instagram)](https://www.instagram.com/h.wojack/)
   -  [LinkedIn](https://www.linkedin.com/in/hilsonawjunior/)
 <!--
