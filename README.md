@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hilson, a brazilian programmer and researcher.
+## Hi there 👋 I'm Hilson, a brazilian fullstack programmer and computer science bacharel.
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&rank_icon=github&hide=contribs&show_icons=true&theme=omni&card_width=500&custom_title=Hilson's+Github+Stats"/>
@@ -11,7 +11,7 @@
 
 - 🔭 I'm working on a compiler for an event-driven programming language named Butterfly.
 - 💬 Ask me about formal languages and compilers, I love it!!
-- 🌱 Currently I'm learning Go
+- 📕 My favorite languages are Golang, Javascript and Java
 - 😄 My Pronouns are he/him
 - 📫 You can talk to me on any of my e-mails or on my Instagram:
   -  [hilson.alex234@gmail.com](mailto:hilson.alex234@gmail.com)
