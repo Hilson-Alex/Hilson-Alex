@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hilson, a brazilian fullstack programmer and computer science bacharel.
+## Hi there 👋 I'm Hilson, a brazilian fullstack programmer and bachelor in computer science.
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Hilson-Alex&count_private=true&rank_icon=github&hide=contribs&show_icons=true&theme=omni&card_width=500&custom_title=Hilson's+Github+Stats"/>
