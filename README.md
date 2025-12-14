@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hilson, a brazilian fullstack programmer and bachelor in computer science.
 
-I'm a midlevel fullstack programmer currently working on Cognyte using React and Java. 
+I'm a Software Engineer and Fullstack Developer currently working on Cognyte using React and Java. 
 I, personally, like to understand the full cicle of applications and also have interest on theory of computation related topics.
 
 
