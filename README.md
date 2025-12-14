@@ -29,9 +29,9 @@ I, personally, like to understand the full cicle of applications and also have i
 - 😄 My Pronouns are he/him
 - 🔭 I’m currently working on making low configuration applications for hobby. The more click and run the better!
 - 📫 You can talk to me on any of my e-mails or on my Instagram:
-  -  [hilson.alex234@gmail.com](mailto:hilson.alex234@gmail.com)
-  -  [h.wojack (Instagram)](https://www.instagram.com/h.wojack/)
-  -  [LinkedIn](https://www.linkedin.com/in/hilsonawjunior/)
+  -  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [hilson.alex234@gmail.com](mailto:hilson.alex234@gmail.com)
+  -  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [h.wojack (Instagram)](https://www.instagram.com/h.wojack/)
+  -  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/hilsonawjunior/)
 <!--
 **Hilson-Alex/Hilson-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
